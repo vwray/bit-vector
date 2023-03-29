@@ -88,6 +88,8 @@ Recommended steps to run the code:
 ```
 5. Include imports for the desired classes (RankSupport, SelectSupport, or SparseArray) into your class files and start using the methods as described above.
 
+Alternatively, access the code from [Release 1.0.0](https://github.com/vwray/bit-vector/releases/tag/1.0.0).
+
 ## Resources
 For generating plots, I consulted [matplotlib4j](https://github.com/sh0nk/matplotlib4j).
 
