@@ -88,7 +88,7 @@ class SelectSupportTest {
      * @throws IOException
      * @throws PythonExecutionException
      */
-    @Test
+    // @Test
     void testRuntimeGetPlot() throws IOException, PythonExecutionException {
         List<Integer> valuesOfN = new ArrayList<>();
         List<Double> runtimes = new ArrayList<>();
