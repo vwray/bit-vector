@@ -11,7 +11,7 @@
     <name>bit-vector</name>
 
     <modules>
-        <module>rank</module>
+        <module>bit-vector-impl</module>
     </modules>
 
     <properties>
