@@ -91,4 +91,12 @@ Recommended steps to run the code:
 ## Resources
 For generating plots, I consulted [matplotlib4j](https://github.com/sh0nk/matplotlib4j).
 
+I read [this article](https://howtotrainyourjava.com/tag/java-performace/) and [this article](https://www.infoworld.com/article/2077496/java-tip-130--do-you-know-your-data-size-.html) about Java performance and data sizes.
+
+I read [this article](https://www.javamex.com/tutorials/memory/string_memory_usage.shtml) on String memory usage.
+
+I referenced [this article](https://www.developer.com/design/exploring-java-bitset/) about using Java's BitSet.
+
+I referenced an example using Java's DataOutputStream [here](https://www.tutorialspoint.com/java/java_dataoutputstream.htm).
+
 I consulted StackOverflow for several questions, including information about overhead of various data types in Java.
